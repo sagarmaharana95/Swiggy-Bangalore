@@ -1,0 +1,121 @@
+zone,period,stage,sessions,stage_order
+BTM Layout,Wk 1-6 (normal),cart,6512,2
+BTM Layout,Wk 1-6 (normal),delivered,4075,6
+BTM Layout,Wk 1-6 (normal),fleet_assigned,4234,5
+BTM Layout,Wk 1-6 (normal),payment_initiated,4542,3
+BTM Layout,Wk 1-6 (normal),payment_success,4376,4
+BTM Layout,Wk 1-6 (normal),search,18845,1
+BTM Layout,Wk 7-8 (drop),cart,2217,2
+BTM Layout,Wk 7-8 (drop),delivered,1135,6
+BTM Layout,Wk 7-8 (drop),fleet_assigned,1186,5
+BTM Layout,Wk 7-8 (drop),payment_initiated,1440,3
+BTM Layout,Wk 7-8 (drop),payment_success,1226,4
+BTM Layout,Wk 7-8 (drop),search,6229,1
+Electronic City,Wk 1-6 (normal),cart,6631,2
+Electronic City,Wk 1-6 (normal),delivered,4116,6
+Electronic City,Wk 1-6 (normal),fleet_assigned,4304,5
+Electronic City,Wk 1-6 (normal),payment_initiated,4613,3
+Electronic City,Wk 1-6 (normal),payment_success,4428,4
+Electronic City,Wk 1-6 (normal),search,18830,1
+Electronic City,Wk 7-8 (drop),cart,2149,2
+Electronic City,Wk 7-8 (drop),delivered,819,6
+Electronic City,Wk 7-8 (drop),fleet_assigned,858,5
+Electronic City,Wk 7-8 (drop),payment_initiated,1394,3
+Electronic City,Wk 7-8 (drop),payment_success,1167,4
+Electronic City,Wk 7-8 (drop),search,6045,1
+HBR Layout,Wk 1-6 (normal),cart,6567,2
+HBR Layout,Wk 1-6 (normal),delivered,4069,6
+HBR Layout,Wk 1-6 (normal),fleet_assigned,4253,5
+HBR Layout,Wk 1-6 (normal),payment_initiated,4578,3
+HBR Layout,Wk 1-6 (normal),payment_success,4382,4
+HBR Layout,Wk 1-6 (normal),search,18788,1
+HBR Layout,Wk 7-8 (drop),cart,2215,2
+HBR Layout,Wk 7-8 (drop),delivered,1128,6
+HBR Layout,Wk 7-8 (drop),fleet_assigned,1176,5
+HBR Layout,Wk 7-8 (drop),payment_initiated,1439,3
+HBR Layout,Wk 7-8 (drop),payment_success,1206,4
+HBR Layout,Wk 7-8 (drop),search,6217,1
+HSR Layout,Wk 1-6 (normal),cart,6669,2
+HSR Layout,Wk 1-6 (normal),delivered,4209,6
+HSR Layout,Wk 1-6 (normal),fleet_assigned,4374,5
+HSR Layout,Wk 1-6 (normal),payment_initiated,4685,3
+HSR Layout,Wk 1-6 (normal),payment_success,4508,4
+HSR Layout,Wk 1-6 (normal),search,18678,1
+HSR Layout,Wk 7-8 (drop),cart,2152,2
+HSR Layout,Wk 7-8 (drop),delivered,1094,6
+HSR Layout,Wk 7-8 (drop),fleet_assigned,1138,5
+HSR Layout,Wk 7-8 (drop),payment_initiated,1402,3
+HSR Layout,Wk 7-8 (drop),payment_success,1170,4
+HSR Layout,Wk 7-8 (drop),search,6227,1
+Indiranagar,Wk 1-6 (normal),cart,6574,2
+Indiranagar,Wk 1-6 (normal),delivered,4075,6
+Indiranagar,Wk 1-6 (normal),fleet_assigned,4252,5
+Indiranagar,Wk 1-6 (normal),payment_initiated,4541,3
+Indiranagar,Wk 1-6 (normal),payment_success,4368,4
+Indiranagar,Wk 1-6 (normal),search,18834,1
+Indiranagar,Wk 7-8 (drop),cart,2159,2
+Indiranagar,Wk 7-8 (drop),delivered,1086,6
+Indiranagar,Wk 7-8 (drop),fleet_assigned,1124,5
+Indiranagar,Wk 7-8 (drop),payment_initiated,1391,3
+Indiranagar,Wk 7-8 (drop),payment_success,1162,4
+Indiranagar,Wk 7-8 (drop),search,6239,1
+Jayanagar,Wk 1-6 (normal),cart,6405,2
+Jayanagar,Wk 1-6 (normal),delivered,4037,6
+Jayanagar,Wk 1-6 (normal),fleet_assigned,4212,5
+Jayanagar,Wk 1-6 (normal),payment_initiated,4506,3
+Jayanagar,Wk 1-6 (normal),payment_success,4329,4
+Jayanagar,Wk 1-6 (normal),search,18656,1
+Jayanagar,Wk 7-8 (drop),cart,2191,2
+Jayanagar,Wk 7-8 (drop),delivered,1080,6
+Jayanagar,Wk 7-8 (drop),fleet_assigned,1140,5
+Jayanagar,Wk 7-8 (drop),payment_initiated,1406,3
+Jayanagar,Wk 7-8 (drop),payment_success,1167,4
+Jayanagar,Wk 7-8 (drop),search,6154,1
+Koramangala,Wk 1-6 (normal),cart,6591,2
+Koramangala,Wk 1-6 (normal),delivered,4070,6
+Koramangala,Wk 1-6 (normal),fleet_assigned,4221,5
+Koramangala,Wk 1-6 (normal),payment_initiated,4559,3
+Koramangala,Wk 1-6 (normal),payment_success,4359,4
+Koramangala,Wk 1-6 (normal),search,18813,1
+Koramangala,Wk 7-8 (drop),cart,2218,2
+Koramangala,Wk 7-8 (drop),delivered,1127,6
+Koramangala,Wk 7-8 (drop),fleet_assigned,1177,5
+Koramangala,Wk 7-8 (drop),payment_initiated,1402,3
+Koramangala,Wk 7-8 (drop),payment_success,1213,4
+Koramangala,Wk 7-8 (drop),search,6377,1
+Malleshwaram,Wk 1-6 (normal),cart,6560,2
+Malleshwaram,Wk 1-6 (normal),delivered,4085,6
+Malleshwaram,Wk 1-6 (normal),fleet_assigned,4241,5
+Malleshwaram,Wk 1-6 (normal),payment_initiated,4566,3
+Malleshwaram,Wk 1-6 (normal),payment_success,4382,4
+Malleshwaram,Wk 1-6 (normal),search,18876,1
+Malleshwaram,Wk 7-8 (drop),cart,2211,2
+Malleshwaram,Wk 7-8 (drop),delivered,1123,6
+Malleshwaram,Wk 7-8 (drop),fleet_assigned,1167,5
+Malleshwaram,Wk 7-8 (drop),payment_initiated,1415,3
+Malleshwaram,Wk 7-8 (drop),payment_success,1202,4
+Malleshwaram,Wk 7-8 (drop),search,6268,1
+Marathahalli,Wk 1-6 (normal),cart,6521,2
+Marathahalli,Wk 1-6 (normal),delivered,4092,6
+Marathahalli,Wk 1-6 (normal),fleet_assigned,4263,5
+Marathahalli,Wk 1-6 (normal),payment_initiated,4598,3
+Marathahalli,Wk 1-6 (normal),payment_success,4413,4
+Marathahalli,Wk 1-6 (normal),search,18528,1
+Marathahalli,Wk 7-8 (drop),cart,2279,2
+Marathahalli,Wk 7-8 (drop),delivered,833,6
+Marathahalli,Wk 7-8 (drop),fleet_assigned,860,5
+Marathahalli,Wk 7-8 (drop),payment_initiated,1447,3
+Marathahalli,Wk 7-8 (drop),payment_success,1219,4
+Marathahalli,Wk 7-8 (drop),search,6305,1
+Whitefield,Wk 1-6 (normal),cart,6532,2
+Whitefield,Wk 1-6 (normal),delivered,4079,6
+Whitefield,Wk 1-6 (normal),fleet_assigned,4266,5
+Whitefield,Wk 1-6 (normal),payment_initiated,4625,3
+Whitefield,Wk 1-6 (normal),payment_success,4409,4
+Whitefield,Wk 1-6 (normal),search,18856,1
+Whitefield,Wk 7-8 (drop),cart,2240,2
+Whitefield,Wk 7-8 (drop),delivered,813,6
+Whitefield,Wk 7-8 (drop),fleet_assigned,854,5
+Whitefield,Wk 7-8 (drop),payment_initiated,1407,3
+Whitefield,Wk 7-8 (drop),payment_success,1183,4
+Whitefield,Wk 7-8 (drop),search,6235,1

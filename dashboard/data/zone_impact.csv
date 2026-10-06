@@ -1,0 +1,11 @@
+zone,delivered_per_wk_base,delivered_per_wk_drop,orders_lost_per_wk,gmv_lost_per_wk,orders_pct_change,cancel_pct_base,cancel_pct_drop,riders_pct_change,constrained_zone
+Whitefield,729.67,204.0,525.67,157036.37,-72.04,3.61,15.69,-36.32,Yes
+Marathahalli,725.33,200.5,524.83,156864.51,-72.36,3.97,14.56,-31.38,Yes
+Electronic City,734.5,226.0,508.5,153095.54,-69.23,3.86,13.5,-37.47,Yes
+BTM Layout,719.17,501.0,218.17,64692.41,-30.34,3.85,5.3,-0.37,No
+HSR Layout,726.5,524.0,202.5,60269.28,-27.87,3.84,5.06,1.5,No
+Jayanagar,719.17,530.5,188.67,56836.24,-26.23,4.07,4.15,4.33,No
+Malleshwaram,725.67,540.5,185.17,55437.81,-25.52,3.78,4.53,-6.2,No
+Indiranagar,720.17,537.0,183.17,54390.58,-25.43,4.08,5.24,-3.41,No
+HBR Layout,716.17,555.0,161.17,48305.07,-22.5,3.93,5.35,-3.59,No
+Koramangala,713.83,556.0,157.83,46947.44,-22.11,3.73,4.25,-3.65,No
